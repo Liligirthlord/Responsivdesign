@@ -1,0 +1,13 @@
+
+h1{
+	font-size:100px;
+	color: green;
+}
+
+body {
+	background-image: url("baken.jpg");
+	background-repeat: no-repeat;
+}
+
+media screen and (max-width:800px){
+}
